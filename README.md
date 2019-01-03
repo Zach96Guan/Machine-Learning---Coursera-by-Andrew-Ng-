@@ -4,3 +4,4 @@ Wish to review ML algorithms and related programming experience with Octave thro
 
 ex1: linear regression; <br/>
 ex2: logistic regression; <br/>
+ex3: multi-class classification and neural nets; <br/>
